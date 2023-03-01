@@ -1,1 +1,4 @@
-# Uncovering-Hidden-Patterns-of-Global-Terrorism-Casualties
+# Uncovering Hidden Patterns of Global Terrorism Casualties: An Analysis Using Association Rules Technique
+**Project Description**
+
+The project aims to identify hidden patterns in global terrorism casualties using association rules analysis. The study will use data on terrorist incidents and the resulting casualties worldwide to identify patterns and relationships that could help predict future attacks and prevent casualties. The association rules technique is a powerful data mining method that can reveal hidden correlations and relationships in large datasets. By applying this technique to terrorism casualty data, the project aims to uncover previously unknown patterns that can aid policymakers and law enforcement agencies in combating terrorism. Ultimately, the project aims to contribute to a safer and more secure global environment by improving our understanding of the patterns and dynamics of terrorism casualties.
